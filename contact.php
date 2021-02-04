@@ -1,4 +1,5 @@
 <?php include("navbar.php") ?>
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -13,6 +14,16 @@
   </head>
   <body>
     <h1>Contact pagina</h1>
+    <div class="jumbotron">
+  <h1 class="display-4"></h1>
+  <p class="lead">Supercell is een Fins bedrijf dat mobiele spellen ontwikkelt en gevestigd is in Finland. Op dit moment zijn er vier spellen van Supercell verkrijgbaar: Hay Day, Clash of Clans, Boom Beach en Clash Royal. In deze spellen zijn in-app aankopen mogelijk. Hiermee verdient Supercell zijn geld. Voormalige spellen van Supercell zijn Gunshine, Pets vs. Orcs, Battle Buddies en Spooky Pop.</p>
+  <hr class="my-4">
+  <p>Neem contact op met Supercell</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="#" role="button">06 22 55 22 55</a>
+  </p>
+</div>
+    <?php include("footer.php") ?>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
