@@ -1,8 +1,3 @@
-<?php include("navbar.php") ?>
-<<<<<<< HEAD
-=======
-
->>>>>>> main
 <!doctype html>
 <html lang="en">
   <head>
@@ -16,7 +11,8 @@
     <title>Hello, world!</title>
   </head>
   <body>
-<<<<<<< HEAD
+  <?php include("navbar.php") ?>
+
   <div class="container-">
   <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -48,10 +44,10 @@
 
 
   </div>
-=======
+
     <h1>Dit wordt de characters pagina</h1>
     <?php include("footer.php") ?>
->>>>>>> main
+
 
     <!-- Optional JavaScript; choose one of the two! -->
 
