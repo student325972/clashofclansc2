@@ -1,4 +1,5 @@
 <?php include("navbar.php") ?>
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -13,6 +14,7 @@
   </head>
   <body>
     <h1>Dit wordt de characters pagina</h1>
+    <?php include("footer.php") ?>
 
     <!-- Optional JavaScript; choose one of the two! -->
 

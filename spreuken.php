@@ -1,4 +1,5 @@
 <?php include("navbar.php") ?>
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -14,6 +15,7 @@
   <body>
     <h1>Spreuken pagina</h1>
 
+    <?php include("footer.php") ?>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
