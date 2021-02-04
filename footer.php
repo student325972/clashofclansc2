@@ -16,7 +16,7 @@
       </div>
       <div class="col-12 col-md-2">
         <h5 class="footer-text"></h5>
-        <p><a href="Test"></a></p>
+        <p><a href=""></a></p>
         
         
       </div>
