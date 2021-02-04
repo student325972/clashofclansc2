@@ -1,8 +1,5 @@
 <?php include("navbar.php") ?>
-<<<<<<< HEAD
-=======
 
->>>>>>> main
 <!doctype html>
 <html lang="en">
   <head>
@@ -16,42 +13,17 @@
     <title>Hello, world!</title>
   </head>
   <body>
-<<<<<<< HEAD
-  <div class="container-">
-  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="" alt="First slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="..." alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="..." alt="Third slide">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+    <h1>Contact pagina</h1>
+    <div class="jumbotron">
+  <h1 class="display-4"></h1>
+  <p class="lead">Supercell is een Fins bedrijf dat mobiele spellen ontwikkelt en gevestigd is in Finland. Op dit moment zijn er vier spellen van Supercell verkrijgbaar: Hay Day, Clash of Clans, Boom Beach en Clash Royal. In deze spellen zijn in-app aankopen mogelijk. Hiermee verdient Supercell zijn geld. Voormalige spellen van Supercell zijn Gunshine, Pets vs. Orcs, Battle Buddies en Spooky Pop.</p>
+  <hr class="my-4">
+  <p>Neem contact op met Supercell</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="#" role="button">06 22 55 22 55</a>
+  </p>
 </div>
-
-
-
-  </div>
-=======
-    <h1>Dit wordt de characters pagina</h1>
     <?php include("footer.php") ?>
->>>>>>> main
 
     <!-- Optional JavaScript; choose one of the two! -->
 
